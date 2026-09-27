@@ -1,6 +1,6 @@
 <div align="center">
 
-# Table Tennis — the phone is the paddle
+# Table Tennis Simulation
 
 **A physics-accurate table tennis simulator you play with your phone,
 and a study of how a machine learns to return a ball to a spot you choose.**
